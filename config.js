@@ -13,14 +13,14 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'SHODIQ KULL'
+global.ownername = 'NOXA GOOD'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6285865765788','6285865765788','6285865765788']
-global.premium = ['6285865765788']
-global.packname = 'SHODIQ KULL'
+global.owner = ['6282117957682','62821179557682','6282117957682']
+global.premium = ['6282117957682']
+global.packname = 'NOXA GOOD'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
